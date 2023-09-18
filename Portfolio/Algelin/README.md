@@ -1,4 +1,4 @@
-Esta pasta lista algumas das atividades feitas na linguagem Mathematica do livro Linear Algebra and it's Aplication do Gilbert Strang, 4ª ed.:
+Esta pasta lista algumas das atividades feitas na linguagem Mathematica do livro Linear Algebra and its Aplication do Gilbert Strang, 4ª ed.:
 
 ![image](https://github.com/jmendes06/meusarquivos/assets/121638113/7ced1be4-f6c5-4892-b6ae-c89434de964c)
 
